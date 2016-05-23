@@ -1,0 +1,258 @@
+{
+  "parks": {
+    "park": [
+  {
+    "lon": -115.55,
+    "lat": 51.166667,
+    "name": "Banff National Park",
+    "province": "Alberta"
+  },
+  {
+  "lon": -112.870833,
+  "lat": 53.592778,
+  "name": "Elk Island National Park",
+  "province": "Alberta"
+  },
+  {
+  "lon": -118.082222,
+  "lat": 52.873056,
+  "name": "Jasper National Park",
+  "province": "Alberta"
+  },
+  {
+  "lon": -113.915278,
+  "lat": 49.045833,
+  "name": "Waterton Lakes National Park",
+  "province": "Alberta"
+  },
+  {
+  "lon": -112.986389,
+  "lat": 59.390833,
+  "name": "Wood Buffalo National Park",
+  "province": "Alberta"
+  },
+  {
+  "lon": -117.518611,
+  "lat": 51.3,
+  "name": "Glacier National Park",
+  "province": "British Columbia"
+  },
+  {
+  "lon": -123.447778,
+  "lat": 48.850556,
+  "name": "Gulf Islands National Park Reserve",
+  "province": "British Columbia"
+  },
+  {
+  "lon": -131.471111,
+  "lat": 52.389167,
+  "name": "Gwaii Haanas Park Reserve and Haida Heritage Site",
+  "province": "British Columbia"
+  },
+  {
+  "lon": -116.049167,
+  "lat": 50.883056,
+  "name": "Kootenay National Park",
+  "province": "British Columbia"
+  },
+  {
+  "lon": -118.065556,
+  "lat": 51.085833,
+  "name": "Mount Revelstoke National Park",
+  "province": "British Columbia"
+  },
+  {
+  "lon": -124.769167,
+  "lat": 48.636111,
+  "name": "Pacific Rim National Park Reserve",
+  "province": "British Columbia"
+  },
+  {
+  "lon": -116.486667,
+  "lat": 51.395278,
+  "name": "Yoho National Park",
+  "province": "British Columbia"
+  },
+  {
+  "lon": -63.100556,
+  "lat": 58.672222,
+  "name": "Torngat Mountains National Park Reserve",
+  "province": "Newfoundland and Labrador"
+  },
+  {
+  "lon": -100.036111,
+  "lat": 50.863889,
+  "name": "Riding Mountain National Park",
+  "province": "Manitoba"
+  },
+  {
+  "lon": -92.670278,
+  "lat": 57.246389,
+  "name": "Wapusk National Park",
+  "province": "Manitoba"
+  },
+  {
+  "lon": -64.953889,
+  "lat": 45.595278,
+  "name": "Fundy National Park",
+  "province": "New Brunswick"
+  },
+  {
+  "lon": -64.966944,
+  "lat": 46.849722,
+  "name": "Kouchibouguac National Park",
+  "province": "New Brunswick"
+  },
+  {
+  "lon": -57.783333,
+  "lat": 49.5,
+  "name": "Gros Morne National Park",
+  "province": "Newfoundland and Labrador"
+  },
+  {
+  "lon": -53.996111,
+  "lat": 48.511944,
+  "name": "Terra Nova National Park",
+  "province": "Newfoundland and Labrador"
+  },
+  {
+  "lon": -119.741389,
+  "lat": 74.0225,
+  "name": "Aulavik National Park",
+  "province": "Northwest Territories"
+  },
+  {
+  "lon": -123.6,
+  "lat": 61.083333,
+  "name": "Nahanni National Park Reserve",
+  "province": "Northwest Territories"
+  },
+  {
+  "lon": -123.016667,
+  "lat": 69.283333,
+  "name": "Tuktut Nogait National Park",
+  "province": "Northwest Territories"
+  },
+  {
+  "lon": -60.811389,
+  "lat": 46.816111,
+  "name": "Cape Breton Highlands National Park",
+  "province": "Nova Scotia"
+  },
+  {
+  "lon": -65.218333,
+  "lat": 44.399167,
+  "name": "Kejimkujik National Park",
+  "province": "Nova Scotia"
+  },
+  {
+  "lon": -65.016667,
+  "lat": 67.883333,
+  "name": "Auyuittuq National Park",
+  "province": "Nunavut"
+  },
+  {
+  "lon": -68.421389,
+  "lat": 81.563889,
+  "name": "Quttinirpaaq National Park",
+  "province": "Nunavut"
+  },
+  {
+  "lon": -78.434444,
+  "lat": 72.340556,
+  "name": "Sirmilik National Park",
+  "province": "Nunavut"
+  },
+  {
+  "lon": -87.305556,
+  "lat": 65.341667,
+  "name": "Ukkusiksalik National Park",
+  "province": "Nunavut"
+  },
+  {
+  "lon": -81.614167,
+  "lat": 45.238889,
+  "name": "Bruce Peninsula National Park",
+  "province": "Ontario"
+  },
+  {
+  "lon": -79.874722,
+  "lat": 44.877778,
+  "name": "Georgian Bay Islands National Park",
+  "province": "Ontario"
+  },
+  {
+  "lon": -82.517778,
+  "lat": 41.964167,
+  "name": "Point Pelee National Park",
+  "province": "Ontario"
+  },
+  {
+  "lon": -85.916389,
+  "lat": 48.033611,
+  "name": "Pukaskwa National Park",
+  "province": "Ontario"
+  },
+  {
+  "lon": -75.873056,
+  "lat": 44.414444,
+  "name": "St. Lawrence Islands National Park",
+  "province": "Ontario"
+  },
+  {
+  "lon": -63.075,
+  "lat": 46.416667,
+  "name": "Prince Edward Island National Park",
+  "province": "Prince Edward Island"
+  },
+  {
+  "lon": -64.290556,
+  "lat": 48.823889,
+  "name": "Forillon National Park",
+  "province": "Quebec"
+  },
+  {
+  "lon": -72.856111,
+  "lat": 46.808056,
+  "name": "La Mauricie National Park",
+  "province": "Quebec"
+  },
+  {
+  "lon": -63.576667,
+  "lat": 50.254722,
+  "name": "Mingan Archipelago National Park Reserve",
+  "province": "Quebec"
+  },
+  {
+  "lon": -107.425833,
+  "lat": 49.176944,
+  "name": "Grasslands National Park",
+  "province": "Saskatchewan"
+  },
+  {
+  "lon": -106.233611,
+  "lat": 53.995833,
+  "name": "Prince Albert National Park",
+  "province": "Saskatchewan"
+  },
+  {
+  "lon": -139.525,
+  "lat": 69.519722,
+  "name": "Ivvavik National Park",
+  "province": "Yukon Territory"
+  },
+  {
+  "lon": -137.510278,
+  "lat": 60.753056,
+  "name": "Kluane National Park and Reserve",
+  "province": "Yukon Territory"
+  },
+  {
+  "lon": -140.0475,
+  "lat": 68.306944,
+  "name": "Vuntut National Park",
+  "province": "Yukon Territory"
+  }
+    ]
+  }
+}
