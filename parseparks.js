@@ -63,17 +63,6 @@ $(document).ready(function () {
                         });
 
 
-
-                       /* google.maps.event.addListener(marker, 'click', (function(marker, i) {
-                            return function() {
-
-                                infowindow.setContent(park[i][2]);
-                                infowindow.open(map, marker);
-                            }
-                        })(marker));
-
-*/
-
                 }
 
 

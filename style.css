@@ -7,10 +7,10 @@
 #googleMap {
     width:auto;
     height:380px;
-    align-content: center !important;
 }
 
 #map {
+    width: 60%;
 
 }
 
